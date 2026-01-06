@@ -1,0 +1,9 @@
+flask
+flask-cors
+mysql-connector-python
+deepface
+tensorflow==2.11
+pillow
+numpy
+qrcode[pil]
+reportlab936

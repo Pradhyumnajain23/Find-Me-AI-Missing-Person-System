@@ -1,0 +1,7 @@
+SMTP_EMAIL = "pradhyumnajain2002@gmail.com"
+SMTP_PASSWORD = "gvjy eqay xuhk ieyb"
+GOOGLE_CLIENT_ID = "110136777326-j4a4h9rmg73s2hugc0ncbactbt6g8aom.apps.googleusercontent.com"
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "23@Nov@2002"
+MYSQL_DB = "findme"
